@@ -17,10 +17,9 @@ Inicialmente serão realizadas algumas análises com as bases de dados com o obj
 
 Em seguida serão analisadas as correlações entre os dados de expressões gênicas e viabilidades celulares.
 
-Por fim, serão desenvolvidos modelos de machine learning com a tentativa de prever três comportamentos:
+Por fim, serão desenvolvidos modelos de machine learning com a tentativa de prever dois comportamentos:
  - Dados os resultados de expressões gênicas e viabilidades celulares de um experimento, é possível prever se ocorre algum mecanismo de ação?
  - Dados os resultados de expressões gênicas e viabilidades celulares de um experimento, é possível prever se ocorre um mecanismo de ação específico?
- - Dados os resultados de expressões gênicas de um experimento, é possível prever os dados de viabilidades celulares?
 
 ### Estrutura do projeto
 
@@ -40,6 +39,4 @@ Por fim, serão desenvolvidos modelos de machine learning com a tentativa de pre
 
 8- Modelos de machine learning para o questionamento 2
 
-9- Modelos de machine learning para o questionamento 3
-
-10- Conclusões
+9- Conclusões
