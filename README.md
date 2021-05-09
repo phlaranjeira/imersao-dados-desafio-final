@@ -25,12 +25,21 @@ Por fim, serão desenvolvidos modelos de machine learning com a tentativa de pre
 ### Estrutura do projeto
 
 1- Introdução
+
 2- Importação das bibliotecas utilizadas
+
 3- Importação dos dados analisados
+
 4- Análise geral dos dados
+
 5- Análise de algumas relações entre os dados experimentais
+
 6- Análise de correlação entre os dados de expressões gênicas e viabilidades celulares
+
 7- Modelos de machine learning para o questionamento 1
+
 8- Modelos de machine learning para o questionamento 2
+
 9- Modelos de machine learning para o questionamento 3
+
 10- Conclusões
